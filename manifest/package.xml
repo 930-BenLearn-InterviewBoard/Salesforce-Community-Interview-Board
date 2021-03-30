@@ -157,6 +157,7 @@
 		<members>ComparePanelAnswersController</members>
 		<members>ForumsPageApexController</members> 
 		<!-- START New Customizations (CongratulationsBoard branch) -->
+		<members>PanelQuestionControllerTest</members>
 		<members>CongratulationsBoardController</members>
 		<members>CongratulationsBoardControllerTest</members>
 		<members>AssociateSelectionController</members>
